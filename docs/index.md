@@ -1,3 +1,10 @@
+---
+layout: default
+title: "NINA"
+---
+
+
+
 # My great website
 
 My name is Nina Kim.
